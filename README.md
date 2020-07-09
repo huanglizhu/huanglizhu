@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hi!
-I'm a front-end developer who finds new things to learn every day
-Welcome to [my blog](https://huanglizhu.github.io/)
+- hi!
+- I'm a front-end developer who finds new things to learn every day
+- Welcome to [my blog](https://huanglizhu.github.io/)
